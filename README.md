@@ -27,6 +27,20 @@ I founded Clarogram and lead its development. My work includes a responsive Arab
 
 ## Experience
 
+### World Cup High Authority 2034 (WCA34)
+
+**Senior Full Stack Software Engineer · July 2026–present · Riyadh, Saudi Arabia**
+
+- Build web and mobile platforms with React, Next.js, React Native and PostgreSQL.
+- Develop an email builder, digital asset management (DAM), object storage and employee self-service platforms for leave requests, payslips and device requests.
+- Work with MinIO, SeaweedFS and Google Cloud, and deploy applications to AWS and Oracle Cloud.
+- Support website migrations from MOS to WCA34 and other platform migrations.
+- Build content services with Strapi as a headless CMS.
+
+[WCA34 website](https://wca34.gov.sa)
+
+### Previous experience
+
 - **Deloitte Digital:** Senior Software Engineer, working on bilingual AEM frontend development.
 - **Alinma Bank:** Frontend Team Lead, working on React Native architecture, shared components, code reviews and delivery workflows.
 - **Eurisko:** Senior Software Engineer, working on mobile and web projects across video streaming, ecommerce and insurance.
@@ -38,7 +52,9 @@ I founded Clarogram and lead its development. My work includes a responsive Arab
 
 **Web:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
 
-**Backend:** Node.js, NestJS, Firebase, PostgreSQL, REST APIs
+**Backend:** Node.js, NestJS, Firebase, PostgreSQL, Strapi, REST APIs
+
+**Cloud & storage:** AWS, Google Cloud, Oracle Cloud, MinIO, SeaweedFS
 
 **Delivery:** Git, code reviews, CI/CD, testing and release support
 
